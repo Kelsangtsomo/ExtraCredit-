@@ -7,7 +7,7 @@ public class Bio {
 		
 		Console c = new Console ();
 		c.println("Welcome to Alpha Fold game. Would you like to play?");
-		
+		c.println(Please enter your name.);
 		
 
 		
