@@ -1,11 +1,15 @@
 package bio;
+import hsa_new.Console;
 
 public class Bio {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		Console c = new Console ();
+		c.println("Welcome to Alpha Fold game. Would you like to play?");
+		
+		
 
-		//please let us finish this respository business alreayd 
 		
 	}
 
