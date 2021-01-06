@@ -14,7 +14,7 @@ public class Bio {
 
 		c.println("Please enter your name.");
 		
-		
+		care bears
 
 	}
 
