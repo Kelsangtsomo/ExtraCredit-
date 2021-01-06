@@ -13,7 +13,6 @@ public class Bio {
 		c.println("Welcome to Alpha Fold game. Would you like to play?");
 
 		c.println("Please enter your name.");
-		hola como estas
 
 	}
 
