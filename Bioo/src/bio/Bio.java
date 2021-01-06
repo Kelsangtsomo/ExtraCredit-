@@ -13,9 +13,12 @@ public class Bio {
 		c.println("Welcome to Alpha Fold game. Would you like to play?");
 
 		c.println("Please enter your name.");
+<<<<<<< HEAD
 		hola como estas
 		
 		
+=======
+>>>>>>> branch 'main' of https://github.com/Kelsangtsomo/ExtraCredit-.git
 
 	}
 
