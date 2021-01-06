@@ -9,7 +9,7 @@ public class Bio {
 		c.println("Welcome to Alpha Fold game. Would you like to play?");
 		c.print("Please enter your name: ");
 		String name = c.readLine();
- 		
+ 		c.println("Alphafold");
 	}
 
 }
